@@ -1,4 +1,4 @@
-<h1>Pomodoro-Timer-App</h1>
+<h1>Pomodoro-Timer-GUI</h1>
 
 <h2>Description</h2>
 
