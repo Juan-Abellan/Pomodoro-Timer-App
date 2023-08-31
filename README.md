@@ -26,7 +26,7 @@ In order to develop this App we will be working with Tkinter.
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Turtle crossing: <br/>
+Pomodoro-Timer: <br/>
 <a href="https://imgur.com/KuahgKV"><img src="https://i.imgur.com/KuahgKV.jpg" title="source: imgur.com" /></a>
 <a href="https://imgur.com/414vcFt"><img src="https://i.imgur.com/414vcFt.jpg" title="source: imgur.com" /></a>
 <a href="https://imgur.com/1N5HuUA"><img src="https://i.imgur.com/1N5HuUA.jpg" title="source: imgur.com" /></a>
